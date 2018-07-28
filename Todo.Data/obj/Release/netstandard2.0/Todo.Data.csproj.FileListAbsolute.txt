@@ -1,0 +1,11 @@
+C:\Users\mike\repos\web\Todo.Data\bin\Release\netstandard2.0\Todo.Data.deps.json
+C:\Users\mike\repos\web\Todo.Data\bin\Release\netstandard2.0\Todo.Data.dll
+C:\Users\mike\repos\web\Todo.Data\bin\Release\netstandard2.0\Todo.Data.pdb
+C:\Users\mike\repos\web\Todo.Data\bin\Release\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\mike\repos\web\Todo.Data\bin\Release\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\mike\repos\web\Todo.Data\obj\Release\netstandard2.0\Todo.Data.csprojResolveAssemblyReference.cache
+C:\Users\mike\repos\web\Todo.Data\obj\Release\netstandard2.0\Todo.Data.csproj.CoreCompileInputs.cache
+C:\Users\mike\repos\web\Todo.Data\obj\Release\netstandard2.0\Todo.Data.AssemblyInfoInputs.cache
+C:\Users\mike\repos\web\Todo.Data\obj\Release\netstandard2.0\Todo.Data.AssemblyInfo.cs
+C:\Users\mike\repos\web\Todo.Data\obj\Release\netstandard2.0\Todo.Data.dll
+C:\Users\mike\repos\web\Todo.Data\obj\Release\netstandard2.0\Todo.Data.pdb

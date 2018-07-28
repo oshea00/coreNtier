@@ -1,0 +1,22 @@
+﻿@model webmvc.Models.TodoViewModel
+ @{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Todos</title>
+</head>
+<body>
+    <h2>To Do</h2>
+    <ul>
+        @foreach (var todo in Model.Todos)
+        {
+            <li>@todo.Description</li>
+        }
+    </ul>
+</body>
+</html>

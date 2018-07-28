@@ -1,0 +1,13 @@
+C:\Users\mike\repos\web\webmvc\bin\Debug\netcoreapp2.0\webmvc.deps.json
+C:\Users\mike\repos\web\webmvc\bin\Debug\netcoreapp2.0\webmvc.runtimeconfig.json
+C:\Users\mike\repos\web\webmvc\bin\Debug\netcoreapp2.0\webmvc.runtimeconfig.dev.json
+C:\Users\mike\repos\web\webmvc\bin\Debug\netcoreapp2.0\webmvc.dll
+C:\Users\mike\repos\web\webmvc\bin\Debug\netcoreapp2.0\webmvc.pdb
+C:\Users\mike\repos\web\webmvc\obj\Debug\netcoreapp2.0\webmvc.csproj.CoreCompileInputs.cache
+C:\Users\mike\repos\web\webmvc\obj\Debug\netcoreapp2.0\webmvc.AssemblyInfoInputs.cache
+C:\Users\mike\repos\web\webmvc\obj\Debug\netcoreapp2.0\webmvc.AssemblyInfo.cs
+C:\Users\mike\repos\web\webmvc\obj\Debug\netcoreapp2.0\webmvc.dll
+C:\Users\mike\repos\web\webmvc\obj\Debug\netcoreapp2.0\webmvc.pdb
+C:\Users\mike\repos\web\webmvc\obj\Debug\netcoreapp2.0\webmvc.csprojResolveAssemblyReference.cache
+C:\Users\mike\repos\web\webmvc\bin\Debug\netcoreapp2.0\Todo.Data.dll
+C:\Users\mike\repos\web\webmvc\bin\Debug\netcoreapp2.0\Todo.Data.pdb
